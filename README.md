@@ -18,8 +18,6 @@ helpers.py: A small python file with some useful functions
 
 predict.py: The python file that has the function responsible for loading the model, reading the image, resizing it, and classifying the image.
 
-green-dream-56ce5-firebase-adminsdk-33z10-b31fb21b8e.json: The firebase key.
-
 8-cat-66.h5: The model used for classifying images.
 
 /templates: Has the html of the web application.
